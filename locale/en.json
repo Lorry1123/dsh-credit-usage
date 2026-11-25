@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Credits and limits",
+    "description": "Shows the weekly remaining limits for Codex and Claude and the DeepSeek balance above Settings in the left sidebar. Uses existing local Codex, Claude Code, and DSH sign-ins or an existing official DeepSeek API key when signed out of DSH. Makes no model inference requests. Hidden when the sidebar is collapsed."
+  }
+}

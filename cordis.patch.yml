@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-credit-usage
+      name: '@local/dsh-credit-usage'
+      config:
+        claudeWslDistro: Ubuntu-22.04
+        claudeWslCwd: /home/<user>/<trusted-project-dir>
